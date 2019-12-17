@@ -14,4 +14,4 @@ class TestDefaultInterface implements DefaultInterface,DefaultInterfaces2{
         DefaultInterface.super.m1();
         DefaultInterfaces2.super.m1();
     }
-}
+} 

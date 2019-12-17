@@ -14,4 +14,4 @@ public class BuildtInFunction {
         System.out.println(f1.andThen(f2).apply("AndThen"));
         System.out.println(f1.compose(f2).apply("Compose"));
     }
-}
+} 

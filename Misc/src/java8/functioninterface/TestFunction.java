@@ -23,7 +23,7 @@ public class TestFunction {
 
 }
 
-class Student {
+class Student { 
     String name;
     int marks;
     

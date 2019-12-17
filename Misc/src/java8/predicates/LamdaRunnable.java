@@ -15,4 +15,4 @@ public class LamdaRunnable {
            System.out.println("Inside main thread "+j);
        }
     }
-}
+} 

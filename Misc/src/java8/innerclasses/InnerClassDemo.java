@@ -31,4 +31,4 @@ public class InnerClassDemo {
             System.out.println("hi");
         }
     };
-}
+} 

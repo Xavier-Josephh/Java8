@@ -30,5 +30,5 @@ public class LambdaComparble {
       
       System.out.println(b);
           
-    }
+    } 
 }

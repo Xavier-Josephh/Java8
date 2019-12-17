@@ -13,4 +13,4 @@ public class PredicateTest2 {
          
          System.out.println(p1.or(p2).negate().test(12));
     }
-} 
+}  

@@ -21,4 +21,4 @@ public class FunctionThenCompose {
         System.out.println(f1.compose(f2).apply(2));
        
     }
-}
+} 

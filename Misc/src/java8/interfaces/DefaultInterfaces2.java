@@ -7,3 +7,4 @@ public interface DefaultInterfaces2 {
     }
 
 }
+ 

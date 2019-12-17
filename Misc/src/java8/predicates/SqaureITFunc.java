@@ -6,3 +6,4 @@ public interface SqaureITFunc {
     public abstract int squareIt(int i);
 
 }
+ 

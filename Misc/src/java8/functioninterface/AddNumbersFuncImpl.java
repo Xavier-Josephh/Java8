@@ -7,4 +7,4 @@ public class AddNumbersFuncImpl {
         AddNumbers an = (a,b)-> a+b;
         an.add(1, 3);
     }
-}
+} 

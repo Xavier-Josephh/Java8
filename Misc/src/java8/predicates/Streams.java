@@ -30,3 +30,4 @@ public class Streams {
         System.out.println(numbers.stream().sorted().collect(Collectors.toList()));
     }
 }
+ 

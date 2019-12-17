@@ -30,4 +30,4 @@ public class PredicateTest {
         
         // Whatever we mention after -> sign , its the same as mentioning inside if condition
     }
-}       
+}        
